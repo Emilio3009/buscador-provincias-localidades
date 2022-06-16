@@ -1,7 +1,7 @@
-# SELECTS CON PROVINCIAS Y MUNICIPIOS PARA TUS FORMULARIOS.-
+# Select con Provincias y Municipios para utilizar en tus formularios.-
 
-### ELIGE EN EL DESPLEGABLE LA PROVINCIA DE ESPAÑA QUE QUIERAS Y AUTOMATICAMENTE SE DESPLIEGA EN LA LISTA DE LA DERECHA LAS POBLACIONES CORRESPONDIENTES DE ESA PROVINCIA.-
+### Elige en el primer select la provincia que prefieres y en el segundo select automáticamente, se desplegará una lista con todas las localidades españolas que pertenecen a la provincia seleccionada anteriormente.-
 
-### PERFECTO PARA INTEGRAR EN FORMULARIOS, NADA ELABORADO. "LO QUE DICE ES LO QUE ES".-
+### Ahorra escribir código e integralo en tus formularios!!!!!!
 
 ### QUE LO DISFRUTEIS!!!!! :wink:
